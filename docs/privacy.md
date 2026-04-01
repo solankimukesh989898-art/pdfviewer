@@ -28,7 +28,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us:
-- By email: contact@example.com
-- By visiting this page on our website: www.example.com/contact
-- By phone number: +1234567890
-
+- By email: gjappforce@gmail.com
+  
