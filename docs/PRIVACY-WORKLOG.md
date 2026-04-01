@@ -56,7 +56,7 @@ This Privacy Policy describes how WorkLog ("we," "us," or "our") collects, uses,
 ## 9. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-Email: privacy@worklogapp.com
-Address: [Your Address Here]
+Email: gjappforce@gmail.com
+
 
 By using WorkLog, you acknowledge that you have read and understood this Privacy Policy.
