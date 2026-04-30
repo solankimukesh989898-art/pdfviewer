@@ -1,0 +1,51 @@
+Privacy Policy for WTMP - Who To Touch My Phone
+Last Updated: April 28, 2026
+WTMP ("we", "our", or "us") provides the "Who To Touch My Phone" mobile application. This Privacy Policy explains how we handle your information.
+1. Information Collection and Use
+Our app is designed with a "Local-Only" philosophy. We prioritize your privacy by keeping your data on your own device.
+A. Camera Access (CRITICAL)
+The app requires access to your device's Camera to perform its core security function:
+•
+Purpose: To capture a photo of any individual who attempts to unlock your device or successfully unlocks it while the protection service is active.
+•
+Handling: Captured photos are stored locally on your device's internal storage. We do not upload these photos to our servers, and we do not have access to them.
+B. Usage Data
+The app uses the PACKAGE_USAGE_STATS permission to identify which applications were opened during an unauthorized session. This data is stored only on your device.
+C. Device Administrator
+This app uses the Device Administrator permission to monitor screen unlock attempts (failed passcode/PIN). This is used solely for the purpose of triggering the security capture.
+2. Data Storage and Security
+•
+All security logs and photos are stored within the app's private directory or your device's local storage.
+•
+Users can delete all logs and photos at any time using the "Purge All Logs" button in the app settings.
+3. Third-Party Sharing
+We do not sell, trade, or otherwise transfer your personally identifiable information or captured media to third parties. There is no third-party tracking or advertising SDKs integrated into this application.
+4. Permissions
+To function correctly, we request the following permissions:
+•
+Camera: For intruder photo capture.
+•
+Notifications: To maintain the background monitoring service.
+•
+Internet: Only for optional cloud sync (if enabled by the user).
+5. Contact Us
+If you have any questions regarding this Privacy Policy, you may contact us at: [Your Email Address]
+2. Action in Play Console
+1.
+Go to the Google Play Console.
+2.
+Select your app.
+3.
+Go to Policy and programs > App content.
+4.
+Find the Privacy Policy section and click Start or Manage.
+5.
+Paste your URL: https://github.com/mukeshyadav4/WTMP-Privacy-Policy
+6.
+Click Save.
+3. Final Verification
+I have already ensured that your app includes a link to this policy in:
+•
+Permission Setup Screen: Found at the bottom of the setup flow.
+•
+Settings Screen: Accessible via the "Privacy" icon in the bottom navigation menu.
